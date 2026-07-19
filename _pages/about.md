@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Geography, University of Colorado Boulder</a>. 
-Email：Yanxiao.Liu@colorado.edu
+subtitle: <a href='#'>Department of Geography, University of Colorado Boulder</a>. Email：Yanxiao.Liu@colorado.edu
 
 profile:
   align: right
