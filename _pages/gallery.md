@@ -9,7 +9,7 @@ nav_order: 8
 
 ## 🎵 Music
 
-I like discovering local cafés and reading there on weekends.
+I like classical music, such as Bach, Mozart, Beethoven, and Chopin, etc. I play both the piano and the violin.
 
 ---
 
